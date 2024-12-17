@@ -15,6 +15,11 @@ For further information, like the background of this dataset, dataset characteri
 │   ├── Readme.txt
 │   ├── day.csv
 |   └── hour.csv
+├── screenshots
+|   ├── Screenshot 2024-12-17 1.png
+|   ├── Screenshot 2024-12-17 2.png
+|   ├── Screenshot 2024-12-17 3.png
+|   └── Screenshot 2024-12-17 4.png
 ├── README.md
 ├── notebook.ipynb
 └── requirements.txt
