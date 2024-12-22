@@ -10,8 +10,8 @@ from io import BytesIO
 sns.set(style='dark')
 
 # Menyiapkan data df_hour
-#df_hour = pd.read_csv("..\dashboard\hour.csv")
-df_hour = pd.read_csv("dashboard/hour.csv")
+df_hour = pd.read_csv("..\dashboard\hour.csv")
+#df_hour = pd.read_csv("dashboard/hour.csv")
 df_hour.head()
 
 # Menghapus kolom yang tidak diperlukan
